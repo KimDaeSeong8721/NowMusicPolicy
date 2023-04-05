@@ -1,6 +1,5 @@
 # NowMusicPolicy
 
-NowMusicPolicy
 Privacy Policy
 
 Makers built the NowMusic app as a Free app. This SERVICE is provided by Makers at no cost and is intended for use as is.
